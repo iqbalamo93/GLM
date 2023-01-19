@@ -19,4 +19,5 @@ Difference between  GLM AND Linear regression
 
 ## Poisson Distribution
 
-* for x >= 0,1,2...idcreate in nature
+* For x = 0,1,2...idcreate in nature
+1 parameter distribution : __λ__
