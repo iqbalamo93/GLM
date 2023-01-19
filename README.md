@@ -12,3 +12,4 @@ Difference between  GLM AND Linear regression
 ||Model is linear in nature|link function is used to get Y.A GLM does NOT assume a linear relationship between the response variable and the explanatory variables, but it does assume a linear relationship between the transformed expected response in terms of the link function and the explanatory variables; e.g., for binary logistic regression|
 |Errors/Residuals|normally distributed|Errors need to be independent but NOT normally distributed.|
 |Other| Assumes linear relationship betweeb Y and X||
+|| Works better with continous response varaibles| Can also model discreate|
