@@ -13,4 +13,5 @@ Difference between  GLM AND Linear regression
 |Errors/Residuals|normally distributed|Errors need to be independent but NOT normally distributed.|
 |Other| Assumes linear relationship betweeb Y and X||
 || Works better with continous response varaibles| Can also model discreate|
-||| ![image](https://user-images.githubusercontent.com/32023419/213536545-d0d014d6-535d-4923-a529-e225d4ba28ed.png) |
+||![image](https://user-images.githubusercontent.com/32023419/213543774-67e5fa77-f948-46ab-b840-6af11edff039.png)
+| ![image](https://user-images.githubusercontent.com/32023419/213536545-d0d014d6-535d-4923-a529-e225d4ba28ed.png) |
