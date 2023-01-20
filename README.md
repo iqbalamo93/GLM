@@ -25,5 +25,6 @@ Difference between  GLM AND Linear regression
 * Events are random and Independent
 
 `The number of events occurring in a time interval (read them as average)is modeled by a Poisson distribution, and the time between the occurrence of each event follows an exponential distribution`
+
 Assumptions:
 
