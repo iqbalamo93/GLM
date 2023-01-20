@@ -18,8 +18,7 @@ Difference between  GLM AND Linear regression
 > linear model/s is a special case of a generalized linear model (GLM).As, Normal distribution is a member of exponential family.
 
 ## Poisson Distribution
-
-> pmf = ![image](https://user-images.githubusercontent.com/32023419/213757298-50bee756-b7b6-460e-a702-9e41dfca379c.png)
+![image](https://user-images.githubusercontent.com/32023419/213757298-50bee756-b7b6-460e-a702-9e41dfca379c.png)
 
 
 * For x = 0,1,2... inf .Discrete in nature.
