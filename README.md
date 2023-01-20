@@ -19,6 +19,8 @@ Difference between  GLM AND Linear regression
 
 ## Poisson Distribution
 
+> pmf = 
+
 * For x = 0,1,2... inf .Discrete in nature.
 * 1 parameter distribution : __λ__
 * Bounded by 0 and ∞
@@ -27,4 +29,11 @@ Difference between  GLM AND Linear regression
 `The number of events occurring in a given unit interval of time (read λ as average) is modeled by a Poisson distribution, and the time between the occurrence of each event follows an exponential distribution`
 
 Assumptions:
+* Rate at which event occurs is constant, λ doesn't change wrt to time intervals.
+* Events are indeoendent 
+
+### GLM are used for Poisson Distribution
+
+> Requirements with performing with R
+> > D
 
