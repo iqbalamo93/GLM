@@ -19,7 +19,8 @@ Difference between  GLM AND Linear regression
 
 ## Poisson Distribution
 
-> pmf = 
+> pmf = ![image](https://user-images.githubusercontent.com/32023419/213757298-50bee756-b7b6-460e-a702-9e41dfca379c.png)
+
 
 * For x = 0,1,2... inf .Discrete in nature.
 * 1 parameter distribution : __λ__
@@ -32,8 +33,12 @@ Assumptions:
 * Rate at which event occurs is constant, λ doesn't change wrt to time intervals.
 * Events are indeoendent 
 
-### GLM are used for Poisson Distribution
+### GLM are used for Poisson Regression
 
-> Requirements with performing with R
-> > D
+> `Requirements with performing with R`
+> > Y to be discreate in nature
+> > Define area and time
+> > coefficients of the Poisson GLM are on the log scale
+
+
 
