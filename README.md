@@ -38,6 +38,7 @@ Assumptions:
 > > Y to be discreate in nature
 > > Define area and time
 > > coefficients of the Poisson GLM are on the log scale
+> > Non constant sample area or time (e.g., trees km<sup>-1<sup>
 
 
 
