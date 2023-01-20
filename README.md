@@ -15,7 +15,7 @@ Difference between  GLM AND Linear regression
 || Works better with continous response varaibles| Can also model discreate|
 ||![image](https://user-images.githubusercontent.com/32023419/213543774-67e5fa77-f948-46ab-b840-6af11edff039.png)| ![image](https://user-images.githubusercontent.com/32023419/213536545-d0d014d6-535d-4923-a529-e225d4ba28ed.png) |
 
-> linear model/s is a special case of a generalized linear model (GLM).As, Normal distribution is a member ofexponential family.
+> linear model/s is a special case of a generalized linear model (GLM).As, Normal distribution is a member of exponential family.
 
 ## Poisson Distribution
 
