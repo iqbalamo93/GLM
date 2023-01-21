@@ -58,3 +58,9 @@ dependent and independent vialable. NOTE: p-value of features should be read w.r
 * family: Binomial
 
 The Logit function takes probabilities, which are bounded by zero and one, and transforms or links the probability to real numbers from negative to positive infiniity 
+
+#### Bernoulli Distribution V/S Binomial Distribution
+`Bernolli`
+* Models a __single event__
+* Expected pobability
+* *ff
