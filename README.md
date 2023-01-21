@@ -53,8 +53,9 @@ Note when fitting a model with poission `we get feature's p value<0.05` which is
 dependent and independent vialable. NOTE: p-value of features should be read w.r.t. to mode.
 
 #### Poisson link
-The Poisson link function. An intercept only equation might be *y* ~ Poisson(β) . We can convert β which is on link scale to raw data scale by expontiating it
-`Coefficents ofpoisson are multiplicative`
+The Poisson link function. An intercept only equation might be *y* ~ Poisson(β) . We can convert β which is on link scale to raw data scale by expontiating it.
+
+`Coefficents of poisson are multiplicative`
 ### GLM for Logistic Regression
 
 ![image](https://user-images.githubusercontent.com/32023419/213840641-3a1222d6-4c7b-45d3-9f83-fa12513a719b.png)
@@ -96,3 +97,7 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 
 #### Understanding output from logistic regression
 
+* Used to compare relative odds of two events occuring
+* if ODD-RATIO =1 : Coefficients has no effect
+* if OD <1 : Coefficient decreses odds
+* if OD >1 : Coefficient increses odds
