@@ -55,4 +55,5 @@ dependent and independent vialable. NOTE: p-value of features should be read w.r
 
 ![image](https://user-images.githubusercontent.com/32023419/213840641-3a1222d6-4c7b-45d3-9f83-fa12513a719b.png)
 
+* family: Binomial 
 The Logit function takes probabilities, which are bounded by zero and one, and transforms or links the probability to real numbers from negative to positive infiniity 
