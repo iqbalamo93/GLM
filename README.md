@@ -63,4 +63,4 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 `Bernolli`
 * Models a __single event__
 * Expected pobability
-  *ff
+ - ff
