@@ -71,4 +71,7 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 * Modells __N__ Bernoulli events.
 * Expected probability 
   - *n* trials
-  -  
+  - *k* favorable outcomes
+  - with *p* probability
+  - ![image](https://user-images.githubusercontent.com/32023419/213883341-b6085c16-eb39-4a8d-9275-4ef9b5bfe8d0.png)
+
