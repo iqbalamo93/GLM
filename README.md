@@ -83,3 +83,5 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 
 **Pro**bit : **Pro**bability un**it**
 > Models may be known as probit analysis, probit regression, or probit model
+* Probit assumes a binomial distribution
+* The probit has a different link function, __The Probit__ , which is often denoted as inverse pho
