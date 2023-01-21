@@ -79,4 +79,5 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 > I have mentioned Binomial is used as family parameter while fitting GLMs for logistic regression.
 
 
-#### __Pro__bit : __Pro__bability un__it__
+#### Probit and Logit
+__Pro__bit : __Pro__bability un__it__
