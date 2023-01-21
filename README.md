@@ -42,7 +42,7 @@ Assumptions:
 > * Mean >30 (need another tool beside poisson)
 
 #### Comparing linear and Poisson regression
-Consider a below two outputs from fitting lm and glm on discretae data.
+Consider a below two outputs from fitting glm(Gaussian) and glm(Poisson) on discretae data.
 
 ![image](https://user-images.githubusercontent.com/32023419/213831264-0bd40167-5085-47f9-bf51-582ed4515bd5.png)
 
