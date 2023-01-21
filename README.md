@@ -80,4 +80,5 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 
 
 #### Probit and Logit
-__Pro__bit : __Pro__bability un__it__
+
+*Pro*bit : *Pro*bability un*it*
