@@ -101,4 +101,5 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 * if ODD-RATIO =1 : Coefficients has no effect
 * if OD <1 : Coefficient decreses odds
 * if OD >1 : Coefficient increses odds
+
 `From ogistic regression always expontiate the coefficients then use that values for odds as mentioned above`
