@@ -41,5 +41,10 @@ Assumptions:
 > * Non constant sample area or time (e.g., trees km<sup>-1</sup>)
 > * Mean >30 (need another tool beside poisson)
 
+#### Comparing linear and Poisson regression
+Consider a below output from fitting lm nd glm on discretae data 
+![image](https://user-images.githubusercontent.com/32023419/213831264-0bd40167-5085-47f9-bf51-582ed4515bd5.png) 
+![image](https://user-images.githubusercontent.com/32023419/213831285-2c934dee-038d-46bc-92be-01d6d2e2c773.png)
+
 
 
