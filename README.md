@@ -54,7 +54,7 @@ dependent and independent vialable. NOTE: p-value of features should be read w.r
 
 #### Poisson link
 The Poisson link function. An intercept only equation might be *y* ~ Poisson(β) . We can convert β which is on link scale to raw data scale by expontiating it
-
+`Coefficents ofpoisson are multiplicative`
 ### GLM for Logistic Regression
 
 ![image](https://user-images.githubusercontent.com/32023419/213840641-3a1222d6-4c7b-45d3-9f83-fa12513a719b.png)
@@ -93,4 +93,6 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 ![image](https://user-images.githubusercontent.com/32023419/213885152-36a4380f-56dd-4e6b-8143-3845b2ea0339.png)
 
 `Logit has a fatter tails ` that is to say left and right ends of the curve approach their limits a bit slower than a probit. This can make the logit a better at modelling outliers or rare events.
+
+#### Understanding output from logistic regression
 
