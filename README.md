@@ -42,11 +42,13 @@ Assumptions:
 > * Mean >30 (need another tool beside poisson)
 
 #### Comparing linear and Poisson regression
-Consider a below output from fitting lm nd glm on discretae data.
+Consider a below two outputs from fitting lm nd glm on discretae data.
 
 ![image](https://user-images.githubusercontent.com/32023419/213831264-0bd40167-5085-47f9-bf51-582ed4515bd5.png)
 
 ![image](https://user-images.githubusercontent.com/32023419/213831285-2c934dee-038d-46bc-92be-01d6d2e2c773.png)
 
+Note when fitting a model with poission `we get feature's p value<0.05` which is significant i.e given a model our features were able to get the relation between
+dependent and independent vialable. NOTE: p-value of features should be read w.r.t. to mode.
 
 
