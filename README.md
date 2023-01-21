@@ -1,5 +1,6 @@
-# Gemofstats
-This is one stop revison of stats
+# GLM" Generalised Linear Models
+
+This is one stop high level overview of GLMs
 
 ## Part 1: GENERALISED LINEAR  MODEL
 
