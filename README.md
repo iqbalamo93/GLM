@@ -82,3 +82,4 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 #### Probit and Logit
 
 **Pro**bit : **Pro**bability un**it**
+> Models may be known as probit analysis, probit regression, or probit model
