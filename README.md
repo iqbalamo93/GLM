@@ -87,4 +87,6 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 * The probit has a different link function, __The Probit__ , which is often denoted as inverse phi
 *  ![image](https://user-images.githubusercontent.com/32023419/213884734-e115efec-3555-4c0d-8fe6-10a06c8de044.png)
     - ![image](https://user-images.githubusercontent.com/32023419/213884796-486d3d4a-acaa-44da-b327-9fa711f6deb6.png)
+![image](https://user-images.githubusercontent.com/32023419/213885152-36a4380f-56dd-4e6b-8143-3845b2ea0339.png)
 
+`Logit has a fatter tails ` that is to say left and right ends of the curve approach their limits a bit slower than a probit. This can make the logit a better at modelling outliers or rare events.
