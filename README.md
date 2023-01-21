@@ -51,4 +51,8 @@ Consider, below two outputs from fitting glm(Poisson) and glm(Gaussian) on discr
 Note when fitting a model with poission `we get feature's p value<0.05` which is significant i.e given a model our features were able to get the relation between
 dependent and independent vialable. NOTE: p-value of features should be read w.r.t. to mode.
 
+### GLM for Logistic Regression
 
+![image](https://user-images.githubusercontent.com/32023419/213840641-3a1222d6-4c7b-45d3-9f83-fa12513a719b.png)
+
+The Logit function takes probabilities, which are bounded by zero and one, and transforms or links the probability to real numbers from negative to positive infiniity 
