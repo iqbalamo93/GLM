@@ -108,3 +108,4 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 
 ![image](https://user-images.githubusercontent.com/32023419/213897080-de8f35bb-0038-4cd7-ae4c-74a7390e5c38.png)
 
+Simpson's paradox occurs when adding or removing a coefficient changes the results of analysis and is important for regressions. The 1973 Graduate School admission data from UC-Berkeley illustrates this point. At first glance, it appears females are less likely to be admitted to graduate programs. However, including Department as a coefficient causes gender's significance to disappear. As it turns out, prospective female students applied to more competitive programs than males.
