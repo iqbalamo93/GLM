@@ -103,3 +103,8 @@ The Logit function takes probabilities, which are bounded by zero and one, and t
 * if OD >1 : Coefficient increses odds
 
 `From logistic regression always expontiate the coefficients then use that values for odds as mentioned above`
+
+## Other
+
+![image](https://user-images.githubusercontent.com/32023419/213897080-de8f35bb-0038-4cd7-ae4c-74a7390e5c38.png)
+
